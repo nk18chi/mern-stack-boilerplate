@@ -1,8 +1,14 @@
 [
   {
-    "name": "Steve Jobs"
+    "_id": ObjectId("5f7a0fdb39b54d8c7505c9e7"),
+    "name": "Steve Jobs",
+    "createdAt": ISODate("2020-10-04T18:33:33.485Z"),
+    "updatedAt": ISODate("2020-10-04T18:33:33.485Z")
   },
   {
-    "name": "Bill Gates"
+    "_id": ObjectId("5f7a0fdb39b54d8c7505c9e6"),
+    "name": "Bill Gates",
+    "createdAt": ISODate("2020-10-04T18:33:33.485Z"),
+    "updatedAt": ISODate("2020-10-04T18:33:33.485Z")
   }
 ]

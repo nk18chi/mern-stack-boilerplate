@@ -1,0 +1,44 @@
+[
+  {
+    "_id": ObjectId("5f7a0fdb2542aff3abcfae8a"),
+    "name": "iPhone",
+    "userId": ObjectId("5f7a0fdb39b54d8c7505c9e7"),
+    "createdAt": ISODate("2020-10-04T18:33:33.485Z"),
+    "updatedAt": ISODate("2020-10-04T18:33:33.485Z")
+  },
+  {
+    "_id": ObjectId("5f7a0fdb2542aff3abcfae85"),
+    "name": "Mac Book",
+    "userId": ObjectId("5f7a0fdb39b54d8c7505c9e7"),
+    "createdAt": ISODate("2020-10-04T18:33:33.485Z"),
+    "updatedAt": ISODate("2020-10-04T18:33:33.485Z")
+  },
+  {
+    "_id": ObjectId("5f7a0fdb2542aff3abcfae86"),
+    "name": "iPad",
+    "userId": ObjectId("5f7a0fdb39b54d8c7505c9e7"),
+    "createdAt": ISODate("2020-10-04T18:33:33.485Z"),
+    "updatedAt": ISODate("2020-10-04T18:33:33.485Z")
+  },
+  {
+    "_id": ObjectId("5f7a0fdb2542aff3abcfae87"),
+    "name": "Windows PC",
+    "userId": ObjectId("5f7a0fdb39b54d8c7505c9e6"),
+    "createdAt": ISODate("2020-10-04T18:33:33.485Z"),
+    "updatedAt": ISODate("2020-10-04T18:33:33.485Z")
+  },
+  {
+    "_id": ObjectId("5f7a0fdb2542aff3abcfae89"),
+    "name": "Windows Phone",
+    "userId": ObjectId("5f7a0fdb39b54d8c7505c9e6"),
+    "createdAt": ISODate("2020-10-04T18:33:33.485Z"),
+    "updatedAt": ISODate("2020-10-04T18:33:33.485Z")
+  },
+  {
+    "_id": ObjectId("5f7a0fdb2542aff3abcfae88"),
+    "name": "Surface",
+    "userId": ObjectId("5f7a0fdb39b54d8c7505c9e6"),
+    "createdAt": ISODate("2020-10-04T18:33:33.485Z"),
+    "updatedAt": ISODate("2020-10-04T18:33:33.485Z")
+  }
+]
